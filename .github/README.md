@@ -10,6 +10,12 @@
 * Loop, Seek, Shuffle, Specific Skip, Playlists etc support
 * Global, Users, Chats Top 10 played tracks stats
 * Multi-Language support
+* 
+####  Deploy to heroku
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/TheProgramerkitty/DevilxAngeLBot)
+
+#### Deploy telgram [click here](http://t.me/szrosebot?start=deploy)
+send
 
 
 # 🔗 An Overview
