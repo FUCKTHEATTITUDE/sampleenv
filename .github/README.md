@@ -12,7 +12,7 @@
 * Multi-Language support
 * 
 ####  Deploy to heroku
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/TheProgramerkitty/DevilxAngeLBot)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/FUCKTHEATTITUDE/sampleenv.git)
 
 #### Deploy telgram [click here](http://t.me/szrosebot?start=deploy)
 send
